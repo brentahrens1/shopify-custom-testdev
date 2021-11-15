@@ -1,0 +1,27 @@
+{
+  "name": "shopify-glamplyfe-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentahrens1/shopify-custom-testdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentahrens1/shopify-custom-testdev/issues"
+  },
+  "homepage": "https://github.com/brentahrens1/shopify-custom-testdev#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.4"
+  },
+  "dependencies": {
+    "@shopify/themekit": "^1.1.9"
+  }
+}
